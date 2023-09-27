@@ -1,5 +1,3 @@
-To create a README file for your GitHub repository for the "Fake News Detection" project, you can follow this template:
-
 # Fake News Detection
 
 - **Project Title:** Fake News Detection
